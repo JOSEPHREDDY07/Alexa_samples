@@ -24,7 +24,7 @@ var data = [
     "Benjamin Moore Paints Ranked 1 in Customer Satisfaction by J.D. Power and Associates in 2011 & 2012.",
     "Regal,Aura,Natura,MoorGard,Ben,Arborcoat,Ultra Spec,Insl-X,Corotech are major products of Benjamin moore paints.",
     "Benjamin Moore produces the highest-quality paints and finishes in the industry, and deliver them to independent retail locations",
-    "Today, Benjamin Moore is the 128-year-old company is one of the largest paint makers in North America, with 7 plants, 22 distribution facilities, and roughly 4,000 independent retailers.",
+    "Today, Benjamin Moore is the 128-year-old company and one of the largest paint makers in North America, with 7 plants, 22 distribution facilities, and roughly 4,000 independent retailers.",
     "Berkshire Hathaway, a company led by billionaire Warren Buffett, acquired Benjamin Moore",
     "Today, Benjamin Moore & Co, a Berkshire Hathaway company, is a high-performing, innovative manufacturer",
     "BENJAMIN MOORE INTRODUCES ULTRA SPEC SCUFF-X AS THE INDUSTRY'S FIRST SCUFF-RESISTANT PAINT",
